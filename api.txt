@@ -1,0 +1,1 @@
+{"server": "127.0.0.1:469", "launcher_version": "1.0.0-Beta", "client_version": "1.0.0-Beta"}
